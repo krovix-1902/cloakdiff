@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+shots/
+tests/shots/
+report.json
+tests/report.json
+tests/urls.txt
+.venv/
